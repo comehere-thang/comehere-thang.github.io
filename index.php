@@ -66,29 +66,29 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="google-site-verification" content="gRAR5UIlxj4N2AnNQYN7YKo1gHMs4w4rEmpBEDcYNxg" />
 		<meta name="description" content="Owned by Quoc Thang.">
-      	<meta property="og:type" content="website">
-      	<meta property="og:title" content="Quoc Thang">
-      	<meta property="og:url" content="https://quocthang.gq/">
-      	<meta property="og:site_name" content="QUOCTHANG.GQ">
-      	<meta property="og:description" content="Owned by Quoc Thang.">
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="Quoc Thang">
+		<meta property="og:url" content="https://quocthang.gq/">
+		<meta property="og:site_name" content="QUOCTHANG.GQ">
+		<meta property="og:description" content="Owned by Quoc Thang.">
 
-      	<title>Rút Gọn URL - Quoc Thang</title>
+		<title>Rút Gọn URL - Quoc Thang</title>
 
-      	<link rel="shortcut icon" type="image/png" href="/favicon.ico"/>
-      	<link rel="stylesheet" type="text/css" href="css/quocthang.css">
-      	<link rel="stylesheet" type="text/javascript" href="js/nanobar.js">
-      	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-      	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-      	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-      	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-      	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+		<link rel="shortcut icon" type="image/png" href="/favicon.ico"/>
+		<link rel="stylesheet" type="text/css" href="css/quocthang.css">
+		<link rel="stylesheet" type="text/javascript" href="js/nanobar.js">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 	</head>
 	
 	<body>
-    <!--
-    (\___/)
-    {• . •}
-     //> ♥ "Copyright © 2019 Quoc Thang"-->
+<!--
+(\___/)
+{• . •}
+//> ♥ "Copyright © 2019 Quoc Thang"-->
     	<script src="js/nanobar.js"></script>
     	<style>#footer {font-size:15px;line-height:1.5;list-style:none}</style>
     	<div id='main'>
